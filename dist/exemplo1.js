@@ -1,2 +1,2 @@
 var message = "Hey World";
-console.log(message)
+console.log(message);
